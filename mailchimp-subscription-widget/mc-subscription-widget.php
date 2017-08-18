@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: MailChimp Subscription Widget
+Plugin URI: https://github.com/praliedutzel/mailchimp-api-wordpress-widget
 Description: Allows you to add a MailChimp subscription signup form as a widget to dynamic sidebars.
 Version: 1.0
 Author: Pralie Dutzel
